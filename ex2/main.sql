@@ -1,0 +1,16 @@
+insert into books(Title, Author, Price, Pages)
+values('Shohnoma','Firdavsi',150.00,500),
+      ('Alchemist', 'Paulo Coelho', 80.50, 208),
+      ('Harry Potter', 'J.K. Rowling', 120.00, 350),
+      ('Atomic Habits', 'James Clear', 95.50, 320),
+      ('Rich Dad Poor Dad', 'Robert Kiyosaki', 100.00, 336),
+      ('The Rich man in Babilon', 'George Samuel Clason',100,95),
+      ('The Little Prince', 'Antoine de Saint-Exupery', 45.00, 96),
+      ('1984', 'George Orwell', 75.00, 328),
+      ('The Great Gatsby', 'F. Scott Fitzgerald', 60.00, 180),
+      ('Clean Code', 'Robert C. Martin', 180.00, 464),
+      ('The Pragmatic Programmer', 'Andrew Hunt', 200.00, 352),
+      ('Crime and Punishment', 'Fyodor Dostoevsky', 130.00, 671),
+      ('War and Peace', 'Leo Tolstoy', 220.00, 1225),
+      ('The Alchemist', 'Paulo Coelho', 85.00, 197),
+      ('Think and Grow Rich', 'Napoleon Hill', 90.00, 238);
